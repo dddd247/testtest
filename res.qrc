@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>arrow.jpg</file>
+        <file>base.png</file>
+        <file>beginpage.jpg</file>
+        <file>bluefire.jpg</file>
+        <file>clee.png</file>
+        <file>firebyunit.png</file>
+        <file>green.jpg</file>
+        <file>hphsieh.png</file>
+        <file>khliu.png</file>
+        <file>managecard.jpg</file>
+        <file>shiehm.png</file>
+        <file>Start.jpg</file>
+        <file>tower.jpg</file>
+        <file>tower.png</file>
+        <file>tsaimh.png</file>
+        <file>wenson.png</file>
+        <file>win.jpg</file>
+        <file>lose.jpg</file>
+        <file>drawcard.png</file>
+        <file>sisou.png</file>
+        <file>hjsu.png</file>
+        <file>chchen.png</file>
+        <file>merge.png</file>
+        <file>jsli.png</file>
+        <file>tsaic.png</file>
+    </qresource>
+</RCC>
